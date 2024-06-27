@@ -341,8 +341,6 @@ class Telinha:
 
 
 
-#colocar metodo que o armario não aceite abrir quando ele tiver com coluna status - a entregar
-# colocar tantonfaz Maius ou min 
 
 
 if __name__ == "__main__":
