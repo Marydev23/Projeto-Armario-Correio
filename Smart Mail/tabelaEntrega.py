@@ -82,11 +82,6 @@ if __name__ == "__main__":
     app.janela.mainloop()
 
 
-    #FALTA CORRIR ERROS DA TABELA , STATUS E ARMARIO NÃO TA ENTRANDO 
-    # FINALIZAR 
-
-
-
-    #pegar as informaçoes do banco para ser inserida na tabela
+ 
     
 
